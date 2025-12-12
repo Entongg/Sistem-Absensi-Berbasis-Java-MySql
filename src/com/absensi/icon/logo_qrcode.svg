@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 240 240" style="enable-background:new 0 0 240 240;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#13273D;}
+</style>
+<path class="st0" d="M205,105c5.5,0,10-4.5,10-10V35c0-5.5-4.5-10-10-10h-60c-5.5,0-10,4.5-10,10v15h-15v20h15v25
+	c0,5.5,4.5,10,10,10h30v20h20v-20H205z M155,85V45h40v40H155z"/>
+<rect x="175" y="175" class="st0" width="20" height="20"/>
+<rect x="195" y="155" class="st0" width="20" height="20"/>
+<path class="st0" d="M205,215c5.5,0,10-4.5,10-10v-10h-20v20H205z"/>
+<rect x="155" y="155" class="st0" width="20" height="20"/>
+<rect x="155" y="195" class="st0" width="20" height="20"/>
+<rect x="55" y="165" class="st0" width="20" height="20"/>
+<rect x="55" y="55" class="st0" width="20" height="20"/>
+<rect x="165" y="55" class="st0" width="20" height="20"/>
+<rect x="195" y="125" class="st0" width="20" height="20"/>
+<path class="st0" d="M135,125v-20h-30v20H85v10H65v-10H45v10H35c-5.5,0-10,4.5-10,10v60c0,5.5,4.5,10,10,10h60c5.5,0,10-4.5,10-10
+	v-20h20v10h20v-50h10h20v-20h-20H135z M85,195H45v-40h40V195z M125,165h-20v-20h10h10V165z"/>
+<path class="st0" d="M85,105h10c5.5,0,10-4.5,10-10v-5h15V70h-15V35c0-5.5-4.5-10-10-10H35c-5.5,0-10,4.5-10,10v60
+	c0,5.5,4.5,10,10,10h30v20h20V105z M45,85V45h40v40H45z"/>
+</svg>
