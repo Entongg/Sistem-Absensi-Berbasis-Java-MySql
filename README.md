@@ -124,10 +124,4 @@ Dokumentasi lebih lengkap: buka folder `/docs` atau README tambahan di repositor
 
 ---
 
-## Kontribusi
-
-Kontribusi sangat diterima. Silakan buka issue atau pull request. Gunakan branch feature dan sertakan deskripsi perubahan serta testing steps.
-
----
-
 Terima kasih telah menggunakan MyAbsensi
