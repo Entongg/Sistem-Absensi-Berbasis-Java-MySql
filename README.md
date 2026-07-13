@@ -130,4 +130,4 @@ Kontribusi sangat diterima. Silakan buka issue atau pull request. Gunakan branch
 
 ---
 
-Terima kasih telah menggunakan MyAbsensi — bila Anda ingin, saya bisa membuat `application.properties.example`, memperbarui `.gitignore`, dan menulis issue checklist di repo. Beri tahu saya tindakan mana yang Anda mau saya lakukan selanjutnya.
+Terima kasih telah menggunakan MyAbsensi
